@@ -1,6 +1,6 @@
 # North Korea New Year's Speechs
 
-This repository contains the raw speech transcripts of North Korea, from 1946 to 2015.
+This repository contains the raw New Year's speech transcripts of North Korea, from 1946 to 2015.
 
 ## Data description
 
@@ -47,7 +47,7 @@ $ head ../data/2002_tokenized.txt
 When referencing this dataset please cite [this paper](http://www.dbpia.co.kr/Journal/ArticleDetail/NODE06388044):
 
 ```
-@article{tensor2tensor,
+@article{park2015automated,
   author    = {Jonghee Park and Eunjeong Park and Dong-joon Jo},
   title     = {Automated Text Analysis of North Korean New Year Addresses, 1946-2015},
   journal   = {Korean political science review},
